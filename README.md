@@ -1,2 +1,2 @@
 - 👋 Hi there, I’m Francisco.
-- 📕 Currently studying Computer Science at Universidad de Alicante.
+- 📚 Currently studying Computer Science at Universidad de Alicante.
