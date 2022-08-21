@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I’m Francisco</h1>
-<h3 align="center">Computer Science student at University of Alicante, Spain</h3>
+<h3 align="center">Computer Science student at Universidad de Alicante, Spain</h3>
 
 <br>
 
